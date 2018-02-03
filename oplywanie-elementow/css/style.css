@@ -1,0 +1,8 @@
+img#granica{float: left}
+img#obrazek1{float: right}
+img#granica{float: none}
+p:last-child{
+    background-color: beige;
+    clear:right;
+        
+}
